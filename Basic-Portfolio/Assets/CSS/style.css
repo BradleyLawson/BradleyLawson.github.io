@@ -2,6 +2,7 @@
 *{
 	font-family: Georgia;
 }
+
 #aboutMe{
 	background: white;
 	margin-top: 75px;
@@ -19,7 +20,6 @@
 }
 
 #connectWithMe{
-
 	width: 270px;
 	margin-top: 75px;
 	margin-right: 90px;
@@ -54,6 +54,7 @@ h3{
 	text-align: center;
 	font-weight: bold;
 }
+
 img{
 	float: left;
 	margin-left: 30px;
@@ -68,25 +69,32 @@ hr{
 .icons{
 	text-align: center;
 }
+
 #charcoal{
 	background-color: #373737;
 	
 }
+
 #goldLetters{
 	color: #C0B283;
 }
+
 .fa-envelope-o{
 	color:#C0B283;
 }
+
 .fa-github{
 	color:#C0B283;
 }
+
 .fa-linkedin-square{
 	color:#C0B283;
 }
+
 input{
 	width:95%;
 }
+
 textarea{
 	width: 95%;
 	height: 200px;
@@ -97,6 +105,7 @@ li{
 	float:left;
 	list-style-type: none;
 }
+
 li a{
 	text-align: center;
 	padding: 14px 16px;
@@ -104,6 +113,7 @@ li a{
 	color:#C0B283;
 	font-weight: bold;
 }
+
 nav{
     list-style-type: none;
     padding: 0;
@@ -114,6 +124,7 @@ nav{
    	border-top:2px;
   	border-style: solid;
 }
+
 .box{
 	background-color: #F4F4F4;
 	color: #373737;
@@ -124,61 +135,70 @@ nav{
   	margin-bottom: 2px;
   	margin-top: 2px;
 }
+
 .caption{
    position: relative; 
    width: 100%; /* for IE 6 */
 }
+
 .hangman{
 	position: absolute; 
 	left:30px;
 	top:130px;
-   width: 200px;
-   background-color: #373737;
-   text-align: center;
-   opacity: .8;
+	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
 }
+
 .rpgGame{
 	position: absolute; 
 	left:290px;
 	top:130px;
-   width: 200px;
-   background-color: #373737;
-   text-align: center;
-   opacity: .8;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
 }
+
 .triviaGame{
 	position: absolute; 
 	left:30px;
 	top:340px;
-   width: 200px;
-   background-color: #373737;
-   text-align: center;
-   opacity: .8;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
 }
+
 .rutgers{
 	position: absolute; 
 	left:290px;
 	top:340px;
-   width: 200px;
-   background-color: #373737;
-   text-align: center;
-   opacity: .8;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
 }
+
 .rockPaperScissors{
 	position: absolute; 
 	left:30px;
 	top:580px;
-   width: 200px;
-   background-color: #373737;
-   text-align: center;
-   opacity: .8;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
 }
+
 #connectWithMe h3{
 	font-weight: bold;
 }
+
 #aboutMe h2{
 	font-weight: bold;
 }
+
 form .button{
 	width:80px;
 	height: 40px;
