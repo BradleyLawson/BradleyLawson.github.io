@@ -1,0 +1,203 @@
+body{
+	font-family: Georgia;
+	font-weight: bold;
+	background-color: #F4F4F4;
+}
+
+nav{
+	background-color: ##373737;
+	margin-bottom:75px;
+}
+	
+
+hr{
+	border-color: #C0B283;
+	width: 90%;
+}
+
+.aboutMe{
+	border: 2px solid #C0B283;
+	background-color: white;
+	width:650px;
+}
+
+.container{
+	padding-left: 8%;
+	padding-right: 8%;
+}
+
+
+.col-lg-7{
+margin-right:20px;
+}
+.col-lg-5{
+	margin-left:20px;
+}
+
+.connectWithMe{
+	padding-left: 20px;
+	border: 2px solid #C0B283;
+	background-color: white;
+	width: 270px;
+}
+
+
+.profileImage{
+	float:left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 7px;
+}
+
+.heading2{
+	text-align: center;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+p{
+	margin: 1em 1em 1em 1em;
+}
+
+.charcoal{
+	background-color: #373737;
+}
+
+#goldLetters{
+	color: #C0B283;
+}
+
+.background{
+	background-color: #F4F4F4;
+}
+
+#goldBorder{
+	border-bottom: 2px solid #C0B283;
+}
+.fa-envelope-o{
+	color:#C0B283;
+}
+
+.fa-github{
+	color:#C0B283;
+}
+
+.fa-linkedin-square{
+	color:#C0B283;
+}
+
+.icons{
+	text-align: center;
+}
+
+#box{
+	background-color: white;
+	color: #373737;
+	border-color: #C0B283;
+   	border-bottom: 2px;
+   	border-top: 2px;
+  	border-style: solid;
+  	margin-bottom: 2px;
+  	margin-top: 2px;
+  	padding-left: 10px;
+  	font-weight: bold;
+}
+
+form .button{
+	width:80px;
+	height: 40px;
+	background-color: #373737;
+	color: #C0B283;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #C0B283;
+}
+
+input{
+	width:95%;
+}
+
+textarea{
+	width: 95%;
+	height: 200px;
+}
+
+form{
+	padding-left: 5%;
+	padding-bottom: 5%;
+}
+
+.caption{
+	position: relative;
+	width:100%;
+}
+
+.hangman{
+	position: absolute; 
+	left:20px;
+	top:120px;
+	width:200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
+}
+
+.rpgGame{
+	position: absolute; 
+	left:20px;
+	top:120px;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
+}
+
+.triviaGame{
+	position: absolute; 
+	left:20px;
+	top:120px;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
+}
+
+.rutgers{
+	position: absolute; 
+	left:20px;
+	top: 120px;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
+}
+
+.rockPaperScissors{
+	position: absolute; 
+	left:20px;
+	top:120px;
+   	width: 200px;
+   	background-color: #373737;
+   	text-align: center;
+   	opacity: .8;
+}
+
+#footer{
+	   position:fixed;
+	   bottom:0;
+	   width:100%;
+	   height:60px;   /* Height of the footer */
+	   background:#373737;
+	   text-align: center;
+	   border-color: #C0B283;
+	   border-bottom:2px;
+	   border-style: solid;
+	   margin-top: 400px;
+}
+
+
+
