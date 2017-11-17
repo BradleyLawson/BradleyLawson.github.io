@@ -188,7 +188,6 @@ p{
 	}
 	section{
 		width: 60%;
-		background-color: blue;
 		margin-bottom: 100px;
 	}
 	.hangman{
@@ -264,7 +263,6 @@ p{
 	}
 	section{
 		width: 100%;
-		background-color: green;
 	}
 	aside{
 		width: 100%;
@@ -308,7 +306,6 @@ p{
 	}
 	section{
 		width: 100%;
-		background-color: green;
 		margin-top: 0px;
 		padding-top: 20px;
 	}
